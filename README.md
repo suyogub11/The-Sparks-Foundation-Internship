@@ -2,8 +2,6 @@
 
 Welcome to my repository, where I've documented my journey through The Sparks Foundation Data Science and Analytics internship. Here, you'll find detailed explanations and code for each task I've completed.
 
-![The Sparks Foundation Logo](is:issue is:open C:\Users\Admin\Documents\CDAC-DBDA\Important\Tech curve\download.png)
-
 ## Table of Contents
 
 - [Task 1: Student Marks Prediction](#task-1-student-marks-prediction)
