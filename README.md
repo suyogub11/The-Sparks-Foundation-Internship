@@ -1,6 +1,7 @@
 # The Sparks Foundation Data Science and Analytics Internship Tasks Repository
 
 Welcome to my repository, where I've documented my journey through The Sparks Foundation Data Science and Analytics internship. Here, you'll find detailed explanations and code for each task I've completed.
+![The Sparks Foundation Logo](C:\Users\Admin\Documents\CDAC-DBDA\Important\Tech curve\download.png)
 
 ## Table of Contents
 
